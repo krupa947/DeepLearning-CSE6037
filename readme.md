@@ -8,4 +8,4 @@ Build Multilayer Perceptron Model in python with build in functions.
 Image Classifier and extracting features.
 
 ## Download dataset from here:
-Dataset for PCB Classification can be downloaded from this link: https://www.kaggle.com/namrathakaranth/pcbexperiment
+https://www.kaggle.com/namrathakaranth/pcbexperiment
